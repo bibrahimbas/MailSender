@@ -1,0 +1,27 @@
+.Input {
+    padding: 6px 10px;
+    border: 1px solid black;
+    outline: none;
+    background-color: white;
+}
+
+.Button {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.Label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.Invalid {
+    border: 1px solid red;
+    background-color: #F7CFC6;
+}
+
+.Error {
+    color: red;
+    margin: 5px 0;
+}

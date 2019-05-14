@@ -1,0 +1,9 @@
+﻿.Logo {
+    font-family: "Lobster";
+    font-size: 35px;
+    margin-top: -5px;
+    float:right;
+    color: white;
+    display: inline;
+    text-shadow: -1px -1px 1px #9FA4A1;
+}
